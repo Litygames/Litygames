@@ -9,7 +9,7 @@
   </a>
      <span>⠀</span>
   <a href="https://litygames.itch.io/" target="_blank">
-    <img align="center" src="https://cdn.simpleicons.org/itch.io/FFFFFF" width="30"/>
+    <img align="center" src="https://cdn.simpleicons.org/itchdotio/FFFFFF" width="30"/>
   </a>
    <span>⠀</span>
   <a href="https://patreon.com/litygames" target="_blank">
